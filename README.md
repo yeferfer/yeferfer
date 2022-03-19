@@ -14,7 +14,8 @@ const softwareEngineeringStudent = function (me) {
   me.languageSpoken = ["Spanish", "English_B1"];
 
   console.log(
-    "Thank you for visiting me 🤭, I hope you find some of my works interesting 🤖"
+    "Thank you for visiting me 🤭
+     I hope you find some of my works interesting 🤖"
   );
   
 };
