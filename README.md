@@ -1,9 +1,10 @@
 <h2 align="center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" height="40px" />Hello World!<img align="center" src="https://media.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" height="40px" /></h2> 
 
+<em>
+<br/><br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/0EV5qVP04vGrGoCDjn/giphy.gif" height="185px" />
 </em>
- <br/><br/>
- <img  align="right" alt="GIF" src="https://media.giphy.com/media/0EV5qVP04vGrGoCDjn/giphy.gif" height="185px" />
- 
+
 ```javascript
 ("use strict");
 
@@ -39,7 +40,7 @@ console.log(me.name, "says goodbye 🤗");
 </a>FIGMA</code>
 <code><a href="https://www.java.com/es/" target="_blank"><img src ="https://media.giphy.com/media/RMuK7rpRxp7TEmOruI/giphy.gif" height="60px" />
 </a>JAVA</code>
-<code><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwidjquPqNP2AhUUjMgKHbMEAXEYABABGgJxdQ&ohost=www.google.com&cid=CAESbeD2IrTE_3ctb0tPySmCbd9KEXDAhTx6r8MD3kmbF_pmp4deYmQ20KhpmabPUAA5giXIt__7CNe1BTZbNkSg5UeChNyIGgXdsEedZNxQYvb--Oxrtr2XWXaccvJKEFISQf7AoDLTLv_lgL8OuDU&sig=AOD64_0IZUn6E8P2kGY_GSz-iLxC-DHi_A&q&adurl&ved=2ahUKEwji76SPqNP2AhXBQjABHfEeDyQQ0Qx6BAgFEAE" target="_blank"><img src ="https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif" height="60px" />
+<code><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwidjquPqNP2AhUUjMgKHbMEAXEYABABGgJxdQ&ohost=www.google.com&cid=CAESbeD2IrTE_3ctb0tPySmCbd9KEXDAhTx6r8MD3kmbF_pmp4deYmQ20KhpmabPUAA5giXIt__7CNe1BTZbNkSg5UeChNyIGgXdsEedZNxQYvb--Oxrtr2XWXaccvJKEFISQf7AoDLTLv_lgL8OuDU&sig=AOD64_0IZUn6E8P2kGY_GSz-iLxC-DHi_A&q&adurl&ved=2ahUKEwji76SPqNP2AhXBQjABHfEeDyQQ0Qx6BAgFEAE" target="_blank"><img src ="https://media.giphy.com/media/8VkgrPdxMh0oo/giphy.gif" height="45px" />
 </a>KOTLIN</code>
 </p>
 
@@ -68,4 +69,7 @@ console.log(me.name, "says goodbye 🤗");
 <hr>
 
 <br>
-<h2 align=center>Connect with me</h2>
+
+<h2 align="center">Connect with me <img align="center" src="https://media.giphy.com/media/U2FkYOh6fgfGEXvpak/giphy.gif" height="50px" /></h2>
+
+<p align="center"><a href="" target="_blank"><img src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" height="40px"/>&nbsp; &nbsp;</a><a href="" target="_blank"><img src ="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" height="40px" />&nbsp; &nbsp;</a> <a href="" target="_blank"><img src ="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" height="40px" />&nbsp; &nbsp;</a> <a href="" target="_blank"><img src ="https://media.giphy.com/media/IbTZSfHDUDSmOCkd3q/giphy.gif" height="40px" />&nbsp; &nbsp;</a> </p>
