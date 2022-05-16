@@ -77,4 +77,7 @@ console.log(me.name, "says goodbye 🤗");
 
 <h2 align="center">Connect with me <img align="center" src="https://media.giphy.com/media/U2FkYOh6fgfGEXvpak/giphy.gif" height="50px" /></h2>
 
-<p align="center"><a href="" target="_blank"><img src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" height="40px"/>&nbsp; &nbsp;</a><a href="" target="_blank"><img src ="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" height="40px" />&nbsp; &nbsp;</a> <a href="https://www.linkedin.com/in/yefersonculma/" target="_blank"><img src ="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" height="40px" />&nbsp; &nbsp;</a> <a href="" target="_blank"><img src ="https://media.giphy.com/media/IbTZSfHDUDSmOCkd3q/giphy.gif" height="40px" />&nbsp; &nbsp;</a> </p>
+<p align="center"><a href="https://yefersonportfolio.herokuapp.com/" target="_blank"><img src="https://media.giphy.com/media/MzUplcoS0HIzNIdP3T/giphy.gif" height="40px"/>&nbsp; &nbsp;</a><a href="https://www.linkedin.com/in/yefersonculma/" target="_blank"><img src ="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" height="40px" />&nbsp; &nbsp;</a><a href="[CV YefersonCulma.pdf](https://github.com/yeferfer/yeferfer/files/8703643/CV.YefersonCulma.pdf)" target="_blank"><img src ="https://media.giphy.com/media/j0B5B1mW0M5osRKcrq/giphy.gif" height="40px" />&nbsp; &nbsp;</a></p>
+
+
+
